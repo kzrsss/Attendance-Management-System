@@ -3,8 +3,8 @@
 #### 介绍
 本项目为考勤管理系统，分别有学生，老师两个身份进行登录，学生可以查看自己的考勤信息、用户信息以及修改密码；老师可以添加、修改、查询和统计考勤记录、修改密码等功能。
 
-<img width="473" alt="image" src="https://github.com/user-attachments/assets/ebabdc24-6221-464a-a294-151fc3dd8d20" />
-#### 页面部分展示
+
+#### 效果展示
 
 ##### 1）登录功能模块实现
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/6effd3fe-c75b-4b30-9789-4c1e9e458def" />
@@ -22,3 +22,6 @@
 <img width="474" alt="image" src="https://github.com/user-attachments/assets/b7a0fe5f-f66b-4a38-abea-c8dec884e092" />
 <img width="474" alt="image" src="https://github.com/user-attachments/assets/24972c47-3bdd-40ed-a3db-76eddb5aa2e2" />
 <img width="474" alt="image" src="https://github.com/user-attachments/assets/ac8d12dd-8e8a-4a29-99f5-f06a0e813f4a" />
+
+#### 系统架构图
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/ebabdc24-6221-464a-a294-151fc3dd8d20" />
